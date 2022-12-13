@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+h2 {
+text-decoration: underline; color: red;
+} 
+p {
+    color: white;
+}
+.scn, .mjc {
+    background: red; color: white;
+}
+#info_ikhsan {
+    color: rgb(0, 255, 0);
+}
